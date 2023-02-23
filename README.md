@@ -1,5 +1,13 @@
 This would be a collection of some (newest)interesting papers / journals, focusing on the field of Geomatics, smart cities, etc.
 
+##### Resources
+
+[Google Scholar](https://scholar.google.com/)
+
+[MDPI](https://www.mdpi.com/)
+
+[MDPI - Smart Cities](https://www.mdpi.com/journal/smartcities)
+
 ##### Exploiting 2D/3D Geomatics Data for the Management, Promotion, and Valorization of Underground Built Heritage
 
 [[DOI]](https://doi.org/10.3390/smartcities6010012)
