@@ -9,7 +9,6 @@ This would be a collection of some (newest)interesting papers / journals, focusi
 [MDPI - Smart Cities](https://www.mdpi.com/journal/smartcities)
 
 ##### Exploiting 2D/3D Geomatics Data for the Management, Promotion, and Valorization of Underground Built Heritage
-
 [[DOI]](https://doi.org/10.3390/smartcities6010012)
 
 ```BibTeX
@@ -28,7 +27,7 @@ DOI = {10.3390/smartcities6010012}
 }
 ```
 
-##### Towards Digital Twinning on the Web: Heterogeneous 3D Data Fusion Based on Open-Source Structure
+##### Towards Digital Twinning on the Web: Heterogeneous 3D Data Fusion Based on Open-Source Structure 
 
 [[DOI]](https://doi.org/10.3390/rs15030721)
 
