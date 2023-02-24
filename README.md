@@ -4,9 +4,17 @@ This would be a collection of some (newest)interesting papers / journals, focusi
 
 [Google Scholar](https://scholar.google.com/)
 
-[MDPI](https://www.mdpi.com/)
+[MDPI](https://www.mdpi.com/)  
 
-[MDPI - Smart Cities](https://www.mdpi.com/journal/smartcities)
+[ -> Smart Cities](https://www.mdpi.com/journal/smartcities)  
+
+[ -> Remote Sensing](https://www.mdpi.com/journal/remotesensing)
+
+[ISPRS](https://www.isprs.org/) - International Society for Photogrammetry and Remote Sensing
+
+[Science Direct](https://www-sciencedirect-com.tudelft.idm.oclc.org/)
+
+[Springer](https://link-springer-com.tudelft.idm.oclc.org/)
 
 ##### Exploiting 2D/3D Geomatics Data for the Management, Promotion, and Valorization of Underground Built Heritage
 [[DOI]](https://doi.org/10.3390/smartcities6010012)
