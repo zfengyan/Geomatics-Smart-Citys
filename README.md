@@ -24,3 +24,6 @@ This would be a collection of some (newest)interesting papers / journals, focusi
 ##### Towards Digital Twinning on the Web: Heterogeneous 3D Data Fusion Based on Open-Source Structure 
 [[DOI]](https://doi.org/10.3390/rs15030721)    [[Cite]](https://github.com/zfengyan/Geomatics-Smart-Citys/blob/main/BibTeX/2.bib)
 
+
+##### The CGAL kernel: A basis for geometric computation
+[[DOI]](https://doi.org/10.1007/BFb0014496)    [[Cite]]()
