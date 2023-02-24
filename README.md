@@ -26,4 +26,4 @@ This would be a collection of some (newest)interesting papers / journals, focusi
 
 
 ##### The CGAL kernel: A basis for geometric computation
-[[DOI]](https://doi.org/10.1007/BFb0014496)    [[Cite]]()
+[[DOI]](https://doi.org/10.1007/BFb0014496)    [[Cite]](https://github.com/zfengyan/Geomatics-Smart-Citys/blob/main/BibTeX/3.bib)
