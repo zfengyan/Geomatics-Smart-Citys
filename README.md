@@ -1,6 +1,6 @@
-This would be a collection of some (newest)interesting papers / journals, focusing on the field of Geomatics, smart cities, etc.
+This would be a collection of some (newest if possible)interesting papers / journals, focusing on the field of Geomatics-related fields (such as smart cities, etc.)
 
-##### Resources
+### Resources for accessing 
 
 [Google Scholar](https://scholar.google.com/)
 
@@ -16,6 +16,9 @@ This would be a collection of some (newest)interesting papers / journals, focusi
 
 [Springer](https://link-springer-com.tudelft.idm.oclc.org/)
 
+### Useful libraries
+
+### Papers
 
 ##### Exploiting 2D/3D Geomatics Data for the Management, Promotion, and Valorization of Underground Built Heritage
 [[DOI]](https://doi.org/10.3390/smartcities6010012)  [[Cite]](https://github.com/zfengyan/Geomatics-Smart-Citys/blob/main/BibTeX/1.bib)
