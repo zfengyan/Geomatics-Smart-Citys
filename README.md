@@ -30,3 +30,6 @@ This would be a collection of some (newest if possible)interesting papers / jour
 
 ##### The CGAL kernel: A basis for geometric computation
 [[DOI]](https://doi.org/10.1007/BFb0014496)    [[Cite]](https://github.com/zfengyan/Geomatics-Smart-Citys/blob/main/BibTeX/3.bib)
+
+##### On the design of CGAL a computational geometry algorithms library
+[[DOI]](https://doi-org.tudelft.idm.oclc.org/10.1002/1097-024X(200009)30:11<1167::AID-SPE337>3.0.CO;2-B)
