@@ -35,4 +35,4 @@ This would be a collection of some (newest if possible)interesting papers / jour
 [[DOI]](https://doi-org.tudelft.idm.oclc.org/10.1002/1097-024X(200009)30:11<1167::AID-SPE337>3.0.CO;2-B)    [[Cite]](https://github.com/zfengyan/Geomatics-Smart-Citys/blob/main/BibTeX/4.bib)
 
 ##### geoSmartCity: geomatics contribution to the smart city
-[[DOI]](https://doi-org.tudelft.idm.oclc.org/10.1145/2479724.2479738)
+[[DOI]](https://doi-org.tudelft.idm.oclc.org/10.1145/2479724.2479738)    [[Cite]](https://github.com/zfengyan/Geomatics-Smart-Citys/blob/main/BibTeX/5.bib)
